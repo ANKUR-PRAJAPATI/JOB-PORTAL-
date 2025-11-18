@@ -378,7 +378,8 @@ job-portal/
 <div align="center">
 
 ### 🏠 Home Page
-![Home Page](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Home+Page)
+<img width="1871" height="880" alt="image" src="https://github.com/user-attachments/assets/a1b7b47b-6978-480d-b379-9810e1f03563" />
+
 
 ### 💼 Job Listings
 ![Job Listings](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Job+Listings)
@@ -562,4 +563,5 @@ Special thanks to:
 
 
 </div>
+
 
