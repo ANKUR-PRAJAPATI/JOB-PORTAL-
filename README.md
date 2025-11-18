@@ -9,8 +9,6 @@
 
 **A modern, full-stack job portal revolutionizing the hiring experience** 🚀
 
-[Live Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/job-portal/issues) • [Request Feature](https://github.com/yourusername/job-portal/issues)
-
 </div>
 
 ---
@@ -215,7 +213,6 @@ Create a `.env` file in the root directory:
 ```env
 # Clerk Authentication
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-
 # Supabase Configuration
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
@@ -382,13 +379,14 @@ job-portal/
 
 
 ### 💼 Job Listings
-![Job Listings](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Job+Listings)
+<img width="1787" height="886" alt="image" src="https://github.com/user-attachments/assets/4fdab4fb-2f39-4057-a2e5-00ebd0da210e" />
 
-### 📊 Dashboard
-![Dashboard](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Employer+Dashboard)
+
+
 
 ### 📱 Mobile View
-![Mobile View](https://via.placeholder.com/400x600/EC4899/FFFFFF?text=Mobile+Responsive)
+<img width="373" height="803" alt="image" src="https://github.com/user-attachments/assets/ecd515f0-4baf-4469-8138-59cfbe3c2863" />
+
 
 </div>
 
@@ -536,11 +534,10 @@ in the Software without restriction...
 
 **Your Name**
 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- 📧 Email: your.email@example.com
-- 💻 GitHub: [@yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: https://www.linkedin.com/in/ankur-prajapati-5618a1258/
+- 📧 Email: prajapatiankur37@gmail.com
+- 💻 GitHub:https://github.com/ANKUR-PRAJAPATI/
+ 
 
 ---
 
@@ -559,9 +556,10 @@ Special thanks to:
 ---
 
 
-**Made with ❤️ and lots of ☕**
+**Made by ANKUR With ❤️ and lots of ☕**
 
 
 </div>
+
 
 
